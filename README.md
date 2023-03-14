@@ -1,4 +1,4 @@
-# -liyongqi67-Data-Distillation-for-Text-Classification
+# Data-Distillation-for-Text-Classification
 This repo hosts the code for our paper,
  ```bibtex
 @article{li2021data,
